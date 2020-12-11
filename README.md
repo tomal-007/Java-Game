@@ -1,1 +1,1 @@
-# SnakeReload
+# Java Game Project
